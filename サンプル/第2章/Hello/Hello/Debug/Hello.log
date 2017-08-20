@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+  Hello.vcxproj -> C:\Users\yamada\Documents\VC++2015入門\サンプル\第2章\Hello\Debug\Hello.exe
+  Hello.vcxproj -> C:\Users\yamada\Documents\VC++2015入門\サンプル\第2章\Hello\Debug\Hello.pdb (Partial PDB)

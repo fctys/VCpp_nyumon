@@ -1,0 +1,18 @@
+﻿2017/08/20 17:41:32 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\squeeze\Documents\VC++2015入門\保存用\DiceGame\DiceGame\DiceGame.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\squeeze\Documents\VC++2015入門\保存用\DiceGame\Debug\DiceGame.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\DiceGame.FormOption.resources /ASSEMBLYRESOURCE:Debug\DiceGame.FormScore.resources /ASSEMBLYRESOURCE:Debug\DiceGame.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\squeeze\Documents\VC++2015入門\保存用\DiceGame\Debug\DiceGame.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Dice.obj
+         Debug\FormOption.obj
+         Debug\FormScore.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.6.1.AssemblyAttributes.obj"
+         Dice.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+         DiceGame.vcxproj -> C:\Users\squeeze\Documents\VC++2015入門\保存用\DiceGame\Debug\DiceGame.exe
+     1>プロジェクト "C:\Users\squeeze\Documents\VC++2015入門\保存用\DiceGame\DiceGame\DiceGame.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.10

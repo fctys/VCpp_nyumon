@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  Dice.obj : マネージ コードが存在する場合は、/DEBUG:FASTLINK はサポートされません。/DEBUG:FULL でリンクを再開します
+  DiceGame.vcxproj -> C:\Users\yamada\Documents\VC++2015入門\サンプル\第6章\DiceGame\Debug\DiceGame.exe
+  DiceGame.vcxproj -> C:\Users\yamada\Documents\VC++2015入門\サンプル\第6章\DiceGame\Debug\DiceGame.pdb (Partial PDB)
